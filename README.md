@@ -195,12 +195,12 @@ Proyek ini menggunakan pendekatan berbasis **Content-Based Filtering** dengan **
 
 ## 🌟 Contributors
 
-| Name       | LinkedIn |
-|------------|----------|
-| Annisa Herliansyah | [🔗 Connect](https://www.linkedin.com/in/annisa-herliansyah-1a8257287/) |
-| Aqib Abdul Aziz | [🔗 Connect](https://www.linkedin.com/in/aqib-az/) |
-| Muhammad Alwi Rifqi | [🔗 Connect](https://www.linkedin.com/in/m-alwirifqi/) |
-| Wesley Hakim | [🔗 Connect](https://www.linkedin.com/in/wesley-hakim/) |
+| Name       | LinkedIn | GitHub |
+|------------|----------|--------|
+| Annisa Herliansyah | [🔗 Connect](https://www.linkedin.com/in/annisa-herliansyah-1a8257287/) | [✅ Follow](https://github.com/Annisa123-lab) |
+| Aqib Abdul Aziz | [🔗 Connect](https://www.linkedin.com/in/aqib-az/) | [✅ Follow](https://github.com/aqib-az) |
+| Muhammad Alwi Rifqi | [🔗 Connect](https://www.linkedin.com/in/m-alwirifqi/) | [✅ Follow](https://github.com/quadzero1) |
+| Wesley Hakim | [🔗 Connect](https://www.linkedin.com/in/wesley-hakim/) | [✅ Follow](https://github.com/wesleyhakim) |
 ---
 ## 📝 Berikan Masukan Anda
 
