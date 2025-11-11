@@ -1,0 +1,22 @@
+# Streamlit
+streamlit==1.44.0
+
+# Data Handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualisasi
+pillow==10.3.0
+
+# NLP
+nltk>=3.9.1
+contractions
+
+# Machine Learning
+scikit-learn==1.6.1
+fastopic
+
+# PyTorch
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
